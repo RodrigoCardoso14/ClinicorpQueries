@@ -27,9 +27,9 @@ left join PatientPlan pp on pp.id = pi.PatientPlanId
 left join PlanControl pc on pc.id = pp.PlanId
 left join Person p ON p.id = pi.PatientId
 left join Person d on d.id = t.Dentist_PersonId
-where pi.z_Namespace = 'odccaieirasc.br.sp.caieiras'
+where pi.z_Namespace = 'odcpqdocarmo.br.sp.sao_paulo'
 and pi.PaymentConfirmed = 'X'
-and str_to_date(cast(pi.ConfirmedDateAtomic as char), '%Y%m%d')  between 20241101 and 20241130
+and str_to_date(cast(pi.ConfirmedDateAtomic as char), '%Y%m%d')  between 20241201 and 20241231
 and pc.name = 'Contrato ODC'
 -- and pc.id = '5457761867268096' -- CONTRATOS	
 -- and p.Name like '%LIDIA ROSA%'

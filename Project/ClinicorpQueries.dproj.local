@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/09 16:19:31.000.480,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/29 15:26:25.000.068,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/29 17:40:37.000.588,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/25 10:01:30.000.836,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/10/29 12:02:17.000.659,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/11/06 11:37:11.000.055,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/12/27 14:47:12.423,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/12/27 14:50:23.102,C:\ClinicorpQueries\Project\FrmPainelControle.pas=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/12/27 14:50:23.102,C:\ClinicorpQueries\Project\FrmPainelControle.dfm=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2024/12/27 14:50:37.877,C:\ClinicorpQueries\Project\ClinicorpQueries.dproj=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
